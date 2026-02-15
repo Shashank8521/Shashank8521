@@ -1,16 +1,35 @@
-## Hi there 👋
+  ## Hi, I'm Shashank 👋
+               
 
-<!--
-**Shashank8521/Shashank8521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning:
+- System Design
+- AI integrations
+- Bitcoin
+- automated system
+- parralel computing
+- low level system
 
-Here are some ideas to get you started:
+🎯 Hobbies:
+- Building Heavy project
+- Open source contributions
+- UI/UX experimentation
+- Math
+- Basic Computer science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 📫 How to reach me: skwork8521@gmail.com
+  
+
+## Connect with me
+- 💼 LinkedIn: https://linkedin.com/in/shashank-kumar-85b573350
+
+##  Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,javascript,typescript,nodejs,expo,html,mysql,matlab,aws,html,mongodb,sql,bun,python,rust,cpp,c,docker,kubernetes,git,github,tailwind,css,linux,arduino,figma,php" />
+</p>
+
+
+
+
