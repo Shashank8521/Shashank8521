@@ -1,20 +1,21 @@
   ## Hi, I'm Shashank 👋
                
+I’m a software developer with over 1 year of experience building cross-platform mobile applications using React Native.
 
-🌱 Currently learning:
-- System Design
-- AI integrations
-- Bitcoin
-- automated system
-- parralel computing
-- low level system
+🌱 Currently exploring:
+- Distributed Systems & System Design
+- Bitcoin Protocol & Cryptographic Primitives
+- Low-level systems and performance optimization
+- Parallel and concurrent computing
+- AI system integrations
+- Automation & infrastructure tooling
 
 🎯 Hobbies:
-- Building Heavy project
-- Open source contributions
-- UI/UX experimentation
-- Math
-- Basic Computer science
+- Building technically challenging, large-scale projects
+- Contributing to open-source ecosystems
+- Exploring protocol-level design decisions
+- UI/UX with a performance-first mindset
+- Mathematics and core computer science fundamentals
 
 
 
