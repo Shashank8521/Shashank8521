@@ -23,7 +23,7 @@ I’m a software developer with over 1 year of experience building scalable cros
   
 
 ## Connect with me
-- 💼 LinkedIn: https://linkedin.com/in/shashank-kumar-85b573350
+- 💼 LinkedIn: https://linkedin.com/in/shashank-kumar-85b
 
 ##  Languages & Tools
 
