@@ -1,6 +1,6 @@
   ## Hi, I'm Shashank 👋
                
-I’m a software developer with over 1 year of experience building scalable cross-platform mobile applications using React Native, with active involvement in open-source contributions and collaborative development.
+I’m a software developer with over 1 year of experience building scalable cross-platform mobile applications using React Native, and active open-source contributions.
 
 🌱 Currently exploring:
 - Distributed Systems & System Design
@@ -21,9 +21,6 @@ I’m a software developer with over 1 year of experience building scalable cros
 
 - 📫 How to reach me: skwork8521@gmail.com
   
-
-## Connect with me
-- 💼 LinkedIn: https://linkedin.com/in/shashank-kumar-85b
 
 ##  Languages & Tools
 
